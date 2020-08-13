@@ -1,4 +1,4 @@
-The code belongs to the blog https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose and was modified in Test.ipynb to accomodate web cam multiperson pose detection.
+The code belongs to the blog https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose and was modified in Test.ipynb to accomodate web cam multiperson pose detection (instead of image-only pose detection)
 
 A.Requirements : 
 1. OpenCV > 3.4.1
