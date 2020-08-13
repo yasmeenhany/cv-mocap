@@ -1,5 +1,6 @@
 This repo documents our research in the most recent mocap approaches.
 These 3 approaches were the most successful:
+
 **1: OpenPose Multiperson (found in this repo in the notebook titled Test.ipynb)**
   The code belongs to the blog https://www.learnopencv.com/multi-person-pose-estimation-in-opencv-using-openpose and was modified in Test.ipynb to accomodate web cam multiperson pose detection (instead of image-only pose detection)
 
@@ -12,6 +13,7 @@ These 3 approaches were the most successful:
   We changed the code from this paper https://ai.facebook.com/research/publications/pifuhd-multi-level-pixel-aligned-implicit-function-for-high-resolution-3d-human-digitization/
   which constructs 3d models with fine details including occluded parts, to accomodate video input.
     * https://colab.research.google.com/drive/1pSU9msr7nXHpllaCssvBFa5_tRl3oWTP?usp=sharing#scrollTo=z7pHnWccixto
+
 
 **3: lightweight-human-pose-estimation**
   We also tried the code from this repo https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch and it was ran successfully. 
